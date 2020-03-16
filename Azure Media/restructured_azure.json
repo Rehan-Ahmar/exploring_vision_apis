@@ -1,0 +1,1155 @@
+{
+    "celebrities": [
+        {
+            "id": 1279,
+            "name": "David Schwimmer",
+            "confidence": 1,
+            "url": "https://www.bing.com/th?id=AMMS_2400447960bb278c2c95772d11b188d8&c=12&rs=1&qlt=80&cdv=1&pid=16.2",
+            "source": "microsoft",
+            "segment.start_time": 9.259,
+            "segment.end_time": 10.177
+        },
+        {
+            "id": 1279,
+            "name": "David Schwimmer",
+            "confidence": 1,
+            "url": "https://www.bing.com/th?id=AMMS_2400447960bb278c2c95772d11b188d8&c=12&rs=1&qlt=80&cdv=1&pid=16.2",
+            "source": "microsoft",
+            "segment.start_time": 18.018,
+            "segment.end_time": 20.896
+        },
+        {
+            "id": 1279,
+            "name": "David Schwimmer",
+            "confidence": 1,
+            "url": "https://www.bing.com/th?id=AMMS_2400447960bb278c2c95772d11b188d8&c=12&rs=1&qlt=80&cdv=1&pid=16.2",
+            "source": "microsoft",
+            "segment.start_time": 23.023,
+            "segment.end_time": 23.983
+        },
+        {
+            "id": 1007,
+            "name": "Courteney Cox",
+            "confidence": 0.9986,
+            "url": "https://www.bing.com/th?id=AMMS_bc02ff04fe1deef1aa763e9f751418c0&c=12&rs=1&qlt=80&cdv=1&pid=16.2",
+            "source": "microsoft",
+            "segment.start_time": 0.0,
+            "segment.end_time": 1.252
+        },
+        {
+            "id": 1007,
+            "name": "Courteney Cox",
+            "confidence": 0.9986,
+            "url": "https://www.bing.com/th?id=AMMS_bc02ff04fe1deef1aa763e9f751418c0&c=12&rs=1&qlt=80&cdv=1&pid=16.2",
+            "source": "microsoft",
+            "segment.start_time": 3.337,
+            "segment.end_time": 3.671
+        },
+        {
+            "id": 1007,
+            "name": "Courteney Cox",
+            "confidence": 0.9986,
+            "url": "https://www.bing.com/th?id=AMMS_bc02ff04fe1deef1aa763e9f751418c0&c=12&rs=1&qlt=80&cdv=1&pid=16.2",
+            "source": "microsoft",
+            "segment.start_time": 18.018,
+            "segment.end_time": 20.896
+        },
+        {
+            "id": 1225,
+            "name": "Matt LeBlanc",
+            "confidence": 1,
+            "url": "https://www.bing.com/th?id=AMMS_b4adeefb0ac306b570ec01896646b73e&c=12&rs=1&qlt=80&cdv=1&pid=16.2",
+            "source": "microsoft",
+            "segment.start_time": 0.0,
+            "segment.end_time": 1.252
+        },
+        {
+            "id": 1225,
+            "name": "Matt LeBlanc",
+            "confidence": 1,
+            "url": "https://www.bing.com/th?id=AMMS_b4adeefb0ac306b570ec01896646b73e&c=12&rs=1&qlt=80&cdv=1&pid=16.2",
+            "source": "microsoft",
+            "segment.start_time": 11.595,
+            "segment.end_time": 12.471
+        },
+        {
+            "id": 1225,
+            "name": "Matt LeBlanc",
+            "confidence": 1,
+            "url": "https://www.bing.com/th?id=AMMS_b4adeefb0ac306b570ec01896646b73e&c=12&rs=1&qlt=80&cdv=1&pid=16.2",
+            "source": "microsoft",
+            "segment.start_time": 13.764,
+            "segment.end_time": 14.932
+        },
+        {
+            "id": 1225,
+            "name": "Matt LeBlanc",
+            "confidence": 1,
+            "url": "https://www.bing.com/th?id=AMMS_b4adeefb0ac306b570ec01896646b73e&c=12&rs=1&qlt=80&cdv=1&pid=16.2",
+            "source": "microsoft",
+            "segment.start_time": 26.777,
+            "segment.end_time": 27.528
+        },
+        {
+            "id": 1011,
+            "name": "Lisa Kudrow",
+            "confidence": 0.9929,
+            "url": "https://www.bing.com/th?id=AMMS_9d45e5a299dec42d0e74efe4eef2a2ba&c=12&rs=1&qlt=80&cdv=1&pid=16.2",
+            "source": "microsoft",
+            "segment.start_time": 0.0,
+            "segment.end_time": 1.252
+        },
+        {
+            "id": 1011,
+            "name": "Lisa Kudrow",
+            "confidence": 0.9929,
+            "url": "https://www.bing.com/th?id=AMMS_9d45e5a299dec42d0e74efe4eef2a2ba&c=12&rs=1&qlt=80&cdv=1&pid=16.2",
+            "source": "microsoft",
+            "segment.start_time": 3.67,
+            "segment.end_time": 5.422
+        },
+        {
+            "id": 1001,
+            "name": "Jennifer Aniston",
+            "confidence": 0.9677,
+            "url": "https://www.bing.com/th?id=AMMS_49e8b448e95989743a565dee621e429e&c=12&rs=1&qlt=80&cdv=1&pid=16.2",
+            "source": "microsoft",
+            "segment.start_time": 0.0,
+            "segment.end_time": 1.252
+        },
+        {
+            "id": 1001,
+            "name": "Jennifer Aniston",
+            "confidence": 0.9677,
+            "url": "https://www.bing.com/th?id=AMMS_49e8b448e95989743a565dee621e429e&c=12&rs=1&qlt=80&cdv=1&pid=16.2",
+            "source": "microsoft",
+            "segment.start_time": 3.337,
+            "segment.end_time": 3.671
+        },
+        {
+            "id": 1001,
+            "name": "Jennifer Aniston",
+            "confidence": 0.9677,
+            "url": "https://www.bing.com/th?id=AMMS_49e8b448e95989743a565dee621e429e&c=12&rs=1&qlt=80&cdv=1&pid=16.2",
+            "source": "microsoft",
+            "segment.start_time": 26.777,
+            "segment.end_time": 27.528
+        },
+        {
+            "id": 1253,
+            "name": "Matthew Perry",
+            "confidence": 0.8623,
+            "url": "https://www.bing.com/th?id=AMMS_623f84b3be9131756824099e22a79f6b&c=12&rs=1&qlt=80&cdv=1&pid=16.2",
+            "source": "microsoft",
+            "segment.start_time": 14.932,
+            "segment.end_time": 15.933
+        },
+        {
+            "id": 1103,
+            "name": "Unknown #1",
+            "confidence": 0,
+            "url": null,
+            "source": "microsoft",
+            "segment.start_time": 1.251,
+            "segment.end_time": 2.461
+        },
+        {
+            "id": 1103,
+            "name": "Unknown #1",
+            "confidence": 0,
+            "url": null,
+            "source": "microsoft",
+            "segment.start_time": 4.004,
+            "segment.end_time": 5.422
+        },
+        {
+            "id": 1103,
+            "name": "Unknown #1",
+            "confidence": 0,
+            "url": null,
+            "source": "microsoft",
+            "segment.start_time": 15.933,
+            "segment.end_time": 18.018
+        },
+        {
+            "id": 1103,
+            "name": "Unknown #1",
+            "confidence": 0,
+            "url": null,
+            "source": "microsoft",
+            "segment.start_time": 20.771,
+            "segment.end_time": 20.896
+        },
+        {
+            "id": 1103,
+            "name": "Unknown #1",
+            "confidence": 0,
+            "url": null,
+            "source": "microsoft",
+            "segment.start_time": 26.109,
+            "segment.end_time": 27.528
+        },
+        {
+            "id": 1177,
+            "name": "Unknown #2",
+            "confidence": 0,
+            "url": null,
+            "source": "microsoft",
+            "segment.start_time": 9.343,
+            "segment.end_time": 10.177
+        },
+        {
+            "id": 1177,
+            "name": "Unknown #2",
+            "confidence": 0,
+            "url": null,
+            "source": "microsoft",
+            "segment.start_time": 15.933,
+            "segment.end_time": 18.018
+        },
+        {
+            "id": 1304,
+            "name": "Unknown #3",
+            "confidence": 0,
+            "url": null,
+            "source": "microsoft",
+            "segment.start_time": 15.933,
+            "segment.end_time": 18.018
+        },
+        {
+            "id": 1084,
+            "name": "Unknown #4",
+            "confidence": 0,
+            "url": null,
+            "source": "microsoft",
+            "segment.start_time": 3.67,
+            "segment.end_time": 5.422
+        },
+        {
+            "id": 1184,
+            "name": "Unknown #5",
+            "confidence": 0,
+            "url": null,
+            "source": "microsoft",
+            "segment.start_time": 10.177,
+            "segment.end_time": 11.595
+        },
+        {
+            "id": 1008,
+            "name": "Unknown #6",
+            "confidence": 0,
+            "url": null,
+            "source": "microsoft",
+            "segment.start_time": 0.0,
+            "segment.end_time": 1.252
+        },
+        {
+            "id": 1220,
+            "name": "Unknown #8",
+            "confidence": 0,
+            "url": null,
+            "source": "microsoft",
+            "segment.start_time": 11.595,
+            "segment.end_time": 12.471
+        },
+        {
+            "id": 1180,
+            "name": "Unknown #10",
+            "confidence": 0,
+            "url": null,
+            "source": "microsoft",
+            "segment.start_time": 9.426,
+            "segment.end_time": 10.177
+        },
+        {
+            "id": 1160,
+            "name": "Unknown #9",
+            "confidence": 0,
+            "url": null,
+            "source": "microsoft",
+            "segment.start_time": 5.923,
+            "segment.end_time": 6.674
+        },
+        {
+            "id": 1105,
+            "name": "Unknown #11",
+            "confidence": 0,
+            "url": null,
+            "source": "microsoft",
+            "segment.start_time": 2.669,
+            "segment.end_time": 3.295
+        },
+        {
+            "id": 1167,
+            "name": "Unknown #12",
+            "confidence": 0,
+            "url": null,
+            "source": "microsoft",
+            "segment.start_time": 6.173,
+            "segment.end_time": 6.465
+        },
+        {
+            "id": 1170,
+            "name": "Unknown #13",
+            "confidence": 0,
+            "url": null,
+            "source": "microsoft",
+            "segment.start_time": 7.424,
+            "segment.end_time": 7.675
+        },
+        {
+            "id": 1081,
+            "name": "Unknown #14",
+            "confidence": 0,
+            "url": null,
+            "source": "microsoft",
+            "segment.start_time": 1.502,
+            "segment.end_time": 1.669
+        },
+        {
+            "id": 1413,
+            "name": "Unknown #15",
+            "confidence": 0,
+            "url": null,
+            "source": "microsoft",
+            "segment.start_time": 25.943,
+            "segment.end_time": 26.068
+        }
+    ],
+    "labels": [
+        {
+            "id": 1,
+            "name": "People",
+            "referenceId": "person",
+            "language": "en-US",
+            "source": "microsoft",
+            "confidence": 0.9965,
+            "segment.start_time": 1.335,
+            "segment.end_time": 13.347
+        },
+        {
+            "id": 1,
+            "name": "People",
+            "referenceId": "person",
+            "language": "en-US",
+            "source": "microsoft",
+            "confidence": 0.998,
+            "segment.start_time": 14.681,
+            "segment.end_time": 28.028
+        },
+        {
+            "id": 2,
+            "name": "Indoor",
+            "referenceId": null,
+            "language": "en-US",
+            "source": "microsoft",
+            "confidence": 0.9422,
+            "segment.start_time": 1.335,
+            "segment.end_time": 6.674
+        },
+        {
+            "id": 2,
+            "name": "Indoor",
+            "referenceId": null,
+            "language": "en-US",
+            "source": "microsoft",
+            "confidence": 0.9323,
+            "segment.start_time": 8.008,
+            "segment.end_time": 9.343
+        },
+        {
+            "id": 2,
+            "name": "Indoor",
+            "referenceId": null,
+            "language": "en-US",
+            "source": "microsoft",
+            "confidence": 0.963,
+            "segment.start_time": 10.677,
+            "segment.end_time": 28.028
+        },
+        {
+            "id": 3,
+            "name": "Outdoor",
+            "referenceId": null,
+            "language": "en-US",
+            "source": "microsoft",
+            "confidence": 0.9243,
+            "segment.start_time": 6.673,
+            "segment.end_time": 8.008
+        },
+        {
+            "id": 3,
+            "name": "Outdoor",
+            "referenceId": null,
+            "language": "en-US",
+            "source": "microsoft",
+            "confidence": 0.9881,
+            "segment.start_time": 9.343,
+            "segment.end_time": 10.678
+        },
+        {
+            "id": 4,
+            "name": "Wall",
+            "referenceId": "structure/wall",
+            "language": "en-US",
+            "source": "microsoft",
+            "confidence": 0.99,
+            "segment.start_time": 10.677,
+            "segment.end_time": 12.012
+        },
+        {
+            "id": 4,
+            "name": "Wall",
+            "referenceId": "structure/wall",
+            "language": "en-US",
+            "source": "microsoft",
+            "confidence": 0.9566,
+            "segment.start_time": 24.024,
+            "segment.end_time": 25.359
+        },
+        {
+            "id": 5,
+            "name": "Standing",
+            "referenceId": null,
+            "language": "en-US",
+            "source": "microsoft",
+            "confidence": 0.89,
+            "segment.start_time": 10.677,
+            "segment.end_time": 13.347
+        },
+        {
+            "id": 5,
+            "name": "Standing",
+            "referenceId": null,
+            "language": "en-US",
+            "source": "microsoft",
+            "confidence": 0.87,
+            "segment.start_time": 16.016,
+            "segment.end_time": 17.351
+        },
+        {
+            "id": 6,
+            "name": "Man",
+            "referenceId": "person/man",
+            "language": "en-US",
+            "source": "microsoft",
+            "confidence": 0.9717,
+            "segment.start_time": 12.012,
+            "segment.end_time": 13.347
+        },
+        {
+            "id": 7,
+            "name": "Kitchen",
+            "referenceId": "structure/room/kitchen",
+            "language": "en-US",
+            "source": "microsoft",
+            "confidence": 0.8787,
+            "segment.start_time": 12.012,
+            "segment.end_time": 13.347
+        },
+        {
+            "id": 8,
+            "name": "Sitting",
+            "referenceId": "action/sitting",
+            "language": "en-US",
+            "source": "microsoft",
+            "confidence": 0.9916,
+            "segment.start_time": 18.685,
+            "segment.end_time": 20.02
+        },
+        {
+            "id": 9,
+            "name": "People",
+            "referenceId": null,
+            "language": "en-US",
+            "source": "microsoft",
+            "confidence": 0.8831,
+            "segment.start_time": 18.685,
+            "segment.end_time": 20.02
+        },
+        {
+            "id": 10,
+            "name": "Ceiling",
+            "referenceId": "surface/ceiling",
+            "language": "en-US",
+            "source": "microsoft",
+            "confidence": 0.8009,
+            "segment.start_time": 24.024,
+            "segment.end_time": 25.359
+        },
+        {
+            "id": 11,
+            "name": "Floor",
+            "referenceId": "surface/floor",
+            "language": "en-US",
+            "source": "microsoft",
+            "confidence": 0.9784,
+            "segment.start_time": 24.024,
+            "segment.end_time": 26.694
+        },
+        {
+            "id": 12,
+            "name": "Life",
+            "referenceId": null,
+            "language": "en-US",
+            "source": "microsoft",
+            "confidence": 0.924,
+            "segment.start_time": 24.024,
+            "segment.end_time": 25.359
+        },
+        {
+            "id": 13,
+            "name": "Room",
+            "referenceId": "structure/room",
+            "language": "en-US",
+            "source": "microsoft",
+            "confidence": 0.8926,
+            "segment.start_time": 24.024,
+            "segment.end_time": 25.359
+        }
+    ],
+    "texts": [
+        {
+            "id": 1,
+            "text": "\"Friends\"",
+            "confidence": 0.9174,
+            "language": "en-US",
+            "source": "microsoft",
+            "segment.start_time": 11.929,
+            "segment.end_time": 16.058,
+            "bounding_box": {
+                "left": 50,
+                "right": 130,
+                "top": 28,
+                "bottom": 46
+            }
+        },
+        {
+            "id": 1,
+            "text": "\"Friends\"",
+            "confidence": 0.9174,
+            "language": "en-US",
+            "source": "microsoft",
+            "segment.start_time": 16.517,
+            "segment.end_time": 16.976,
+            "bounding_box": {
+                "left": 50,
+                "right": 130,
+                "top": 28,
+                "bottom": 46
+            }
+        },
+        {
+            "id": 1,
+            "text": "\"Friends\"",
+            "confidence": 0.9174,
+            "language": "en-US",
+            "source": "microsoft",
+            "segment.start_time": 17.434,
+            "segment.end_time": 17.893,
+            "bounding_box": {
+                "left": 50,
+                "right": 130,
+                "top": 28,
+                "bottom": 46
+            }
+        },
+        {
+            "id": 1,
+            "text": "\"Friends\"",
+            "confidence": 0.9174,
+            "language": "en-US",
+            "source": "microsoft",
+            "segment.start_time": 18.352,
+            "segment.end_time": 19.269,
+            "bounding_box": {
+                "left": 50,
+                "right": 130,
+                "top": 28,
+                "bottom": 46
+            }
+        },
+        {
+            "id": 1,
+            "text": "\"Friends\"",
+            "confidence": 0.9174,
+            "language": "en-US",
+            "source": "microsoft",
+            "segment.start_time": 21.104,
+            "segment.end_time": 22.94,
+            "bounding_box": {
+                "left": 50,
+                "right": 130,
+                "top": 28,
+                "bottom": 46
+            }
+        },
+        {
+            "id": 2,
+            "text": "Now being distributed on Hu",
+            "confidence": 0.9324,
+            "language": "en-US",
+            "source": "microsoft",
+            "segment.start_time": 11.929,
+            "segment.end_time": 16.058,
+            "bounding_box": {
+                "left": 51,
+                "right": 170,
+                "top": 50,
+                "bottom": 66
+            }
+        },
+        {
+            "id": 2,
+            "text": "Now being distributed on Hu",
+            "confidence": 0.9324,
+            "language": "en-US",
+            "source": "microsoft",
+            "segment.start_time": 18.352,
+            "segment.end_time": 19.269,
+            "bounding_box": {
+                "left": 51,
+                "right": 170,
+                "top": 50,
+                "bottom": 66
+            }
+        },
+        {
+            "id": 2,
+            "text": "Now being distributed on Hu",
+            "confidence": 0.9324,
+            "language": "en-US",
+            "source": "microsoft",
+            "segment.start_time": 21.104,
+            "segment.end_time": 22.94,
+            "bounding_box": {
+                "left": 51,
+                "right": 170,
+                "top": 50,
+                "bottom": 66
+            }
+        },
+        {
+            "id": 3,
+            "text": "& CWYo\" \"Day\" 0 Ente \"n nc-",
+            "confidence": 0.5238,
+            "language": "en-US",
+            "source": "microsoft",
+            "segment.start_time": 13.764,
+            "segment.end_time": 14.223,
+            "bounding_box": {
+                "left": 62,
+                "right": 256,
+                "top": 74,
+                "bottom": 83
+            }
+        },
+        {
+            "id": 4,
+            "text": "& eWyo \"Sun ro Ente Le i I i nc-",
+            "confidence": 0.4822,
+            "language": "en-US",
+            "source": "microsoft",
+            "segment.start_time": 14.223,
+            "segment.end_time": 15.14,
+            "bounding_box": {
+                "left": 62,
+                "right": 256,
+                "top": 74,
+                "bottom": 83
+            }
+        },
+        {
+            "id": 5,
+            "text": "& C'W'n \"Day\"os.Sun 0\" Thing 1 Nc",
+            "confidence": 0.4651,
+            "language": "en-US",
+            "source": "microsoft",
+            "segment.start_time": 15.14,
+            "segment.end_time": 15.599,
+            "bounding_box": {
+                "left": 62,
+                "right": 253,
+                "top": 74,
+                "bottom": 83
+            }
+        },
+        {
+            "id": 6,
+            "text": "& CW'0 \"Day\" os.Day 0\" 1",
+            "confidence": 0.4397,
+            "language": "en-US",
+            "source": "microsoft",
+            "segment.start_time": 15.599,
+            "segment.end_time": 16.058,
+            "bounding_box": {
+                "left": 62,
+                "right": 216,
+                "top": 74,
+                "bottom": 83
+            }
+        },
+        {
+            "id": 7,
+            "text": "& CW \"Day 0 0\" Thing n Inc",
+            "confidence": 0.4702,
+            "language": "en-US",
+            "source": "microsoft",
+            "segment.start_time": 18.352,
+            "segment.end_time": 18.811,
+            "bounding_box": {
+                "left": 62,
+                "right": 253,
+                "top": 74,
+                "bottom": 83
+            }
+        },
+        {
+            "id": 8,
+            "text": "& W \"n\" \"0 days 0\" thing n i nc.",
+            "confidence": 0.4714,
+            "language": "en-US",
+            "source": "microsoft",
+            "segment.start_time": 18.81,
+            "segment.end_time": 19.269,
+            "bounding_box": {
+                "left": 62,
+                "right": 256,
+                "top": 74,
+                "bottom": 83
+            }
+        },
+        {
+            "id": 9,
+            "text": "& CW \"Day\" os. Ente \"Thingn n nc.",
+            "confidence": 0.4848,
+            "language": "en-US",
+            "source": "microsoft",
+            "segment.start_time": 21.104,
+            "segment.end_time": 22.481,
+            "bounding_box": {
+                "left": 62,
+                "right": 253,
+                "top": 74,
+                "bottom": 83
+            }
+        },
+        {
+            "id": 10,
+            "text": "I nc.",
+            "confidence": 0.5448,
+            "language": "en-US",
+            "source": "microsoft",
+            "segment.start_time": 16.517,
+            "segment.end_time": 16.976,
+            "bounding_box": {
+                "left": 230,
+                "right": 256,
+                "top": 74,
+                "bottom": 83
+            }
+        },
+        {
+            "id": 10,
+            "text": "I nc.",
+            "confidence": 0.5448,
+            "language": "en-US",
+            "source": "microsoft",
+            "segment.start_time": 17.434,
+            "segment.end_time": 17.893,
+            "bounding_box": {
+                "left": 230,
+                "right": 256,
+                "top": 74,
+                "bottom": 83
+            }
+        },
+        {
+            "id": 11,
+            "text": "Period Ka Red",
+            "confidence": 0.78,
+            "language": "en-US",
+            "source": "microsoft",
+            "segment.start_time": 11.929,
+            "segment.end_time": 12.846,
+            "bounding_box": {
+                "left": 219,
+                "right": 411,
+                "top": 231,
+                "bottom": 300
+            }
+        },
+        {
+            "id": 12,
+            "text": "One with love",
+            "confidence": 0.8955,
+            "language": "en-US",
+            "source": "microsoft",
+            "segment.start_time": 21.104,
+            "segment.end_time": 22.022,
+            "bounding_box": {
+                "left": 306,
+                "right": 655,
+                "top": 242,
+                "bottom": 298
+            }
+        },
+        {
+            "id": 12,
+            "text": "One with love",
+            "confidence": 0.8955,
+            "language": "en-US",
+            "source": "microsoft",
+            "segment.start_time": 22.481,
+            "segment.end_time": 22.94,
+            "bounding_box": {
+                "left": 306,
+                "right": 655,
+                "top": 242,
+                "bottom": 298
+            }
+        }
+    ],
+    "speech": [
+        {
+            "id": 1,
+            "text": "Right.",
+            "confidence": 1,
+            "language": "en-US",
+            "source": "microsoft",
+            "segment.start_time": 0.57,
+            "segment.end_time": 4.629
+        },
+        {
+            "id": 2,
+            "text": "SNS This is Tsukuba Iceland.",
+            "confidence": 1,
+            "language": "en-US",
+            "source": "microsoft",
+            "segment.start_time": 5.38,
+            "segment.end_time": 30.03
+        }
+    ],
+    "shots": [
+        {
+            "id": 1,
+            "tags": [
+                "Wide",
+                "Indoor"
+            ],
+            "source": "microsoft",
+            "segment.start_time": 0.0,
+            "segment.end_time": 2.753,
+            "keyframes": [
+                {
+                    "id": 1,
+                    "start_time": 0.25,
+                    "end_time": 0.292
+                },
+                {
+                    "id": 2,
+                    "start_time": 1.502,
+                    "end_time": 1.544
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "tags": [
+                "Wide",
+                "CenterFace",
+                "Indoor",
+                "Medium"
+            ],
+            "source": "microsoft",
+            "segment.start_time": 2.753,
+            "segment.end_time": 5.714,
+            "keyframes": [
+                {
+                    "id": 3,
+                    "start_time": 2.753,
+                    "end_time": 2.795
+                },
+                {
+                    "id": 4,
+                    "start_time": 4.213,
+                    "end_time": 4.255
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "tags": [
+                "Indoor",
+                "Medium"
+            ],
+            "source": "microsoft",
+            "segment.start_time": 5.714,
+            "segment.end_time": 6.84,
+            "keyframes": [
+                {
+                    "id": 5,
+                    "start_time": 5.714,
+                    "end_time": 5.756
+                },
+                {
+                    "id": 6,
+                    "start_time": 6.173,
+                    "end_time": 6.215
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "tags": [
+                "Medium",
+                "RightFace",
+                "Outdoor"
+            ],
+            "source": "microsoft",
+            "segment.start_time": 6.84,
+            "segment.end_time": 8.926,
+            "keyframes": [
+                {
+                    "id": 7,
+                    "start_time": 6.84,
+                    "end_time": 6.882
+                },
+                {
+                    "id": 8,
+                    "start_time": 7.716,
+                    "end_time": 7.758
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "tags": [
+                "Indoor"
+            ],
+            "source": "microsoft",
+            "segment.start_time": 8.926,
+            "segment.end_time": 10.219,
+            "keyframes": [
+                {
+                    "id": 9,
+                    "start_time": 8.926,
+                    "end_time": 8.968
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "tags": [
+                "Medium",
+                "CenterFace",
+                "Outdoor"
+            ],
+            "source": "microsoft",
+            "segment.start_time": 10.219,
+            "segment.end_time": 11.887,
+            "keyframes": [
+                {
+                    "id": 10,
+                    "start_time": 10.219,
+                    "end_time": 10.261
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "tags": [
+                "Wide",
+                "Indoor"
+            ],
+            "source": "microsoft",
+            "segment.start_time": 11.887,
+            "segment.end_time": 13.639,
+            "keyframes": [
+                {
+                    "id": 11,
+                    "start_time": 11.887,
+                    "end_time": 11.929
+                },
+                {
+                    "id": 12,
+                    "start_time": 12.471,
+                    "end_time": 12.513
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "tags": [
+                "Indoor",
+                "Medium",
+                "CenterFace"
+            ],
+            "source": "microsoft",
+            "segment.start_time": 13.639,
+            "segment.end_time": 14.932,
+            "keyframes": [
+                {
+                    "id": 13,
+                    "start_time": 13.639,
+                    "end_time": 13.681
+                },
+                {
+                    "id": 14,
+                    "start_time": 13.931,
+                    "end_time": 13.973
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "tags": [
+                "Medium",
+                "CenterFace",
+                "Indoor",
+                "Wide"
+            ],
+            "source": "microsoft",
+            "segment.start_time": 14.932,
+            "segment.end_time": 18.06,
+            "keyframes": [
+                {
+                    "id": 15,
+                    "start_time": 14.932,
+                    "end_time": 14.974
+                },
+                {
+                    "id": 16,
+                    "start_time": 16.183,
+                    "end_time": 16.225
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "tags": [
+                "Medium",
+                "Indoor"
+            ],
+            "source": "microsoft",
+            "segment.start_time": 18.06,
+            "segment.end_time": 20.938,
+            "keyframes": [
+                {
+                    "id": 17,
+                    "start_time": 18.06,
+                    "end_time": 18.102
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "tags": [
+                "Indoor"
+            ],
+            "source": "microsoft",
+            "segment.start_time": 20.938,
+            "segment.end_time": 23.273,
+            "keyframes": [
+                {
+                    "id": 18,
+                    "start_time": 20.938,
+                    "end_time": 20.98
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "tags": [
+                "Wide",
+                "LeftFace",
+                "Indoor"
+            ],
+            "source": "microsoft",
+            "segment.start_time": 23.273,
+            "segment.end_time": 24.358,
+            "keyframes": [
+                {
+                    "id": 19,
+                    "start_time": 23.273,
+                    "end_time": 23.315
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "tags": [
+                "Indoor"
+            ],
+            "source": "microsoft",
+            "segment.start_time": 24.358,
+            "segment.end_time": 26.36,
+            "keyframes": [
+                {
+                    "id": 20,
+                    "start_time": 24.358,
+                    "end_time": 24.4
+                },
+                {
+                    "id": 21,
+                    "start_time": 25.15,
+                    "end_time": 25.192
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "tags": [
+                "Medium",
+                "CenterFace",
+                "Indoor",
+                "Wide"
+            ],
+            "source": "microsoft",
+            "segment.start_time": 26.36,
+            "segment.end_time": 27.819,
+            "keyframes": [
+                {
+                    "id": 22,
+                    "start_time": 26.36,
+                    "end_time": 26.402
+                },
+                {
+                    "id": 23,
+                    "start_time": 26.735,
+                    "end_time": 26.777
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "tags": [
+                "Indoor"
+            ],
+            "source": "microsoft",
+            "segment.start_time": 27.819,
+            "segment.end_time": 28.279,
+            "keyframes": [
+                {
+                    "id": 24,
+                    "start_time": 27.819,
+                    "end_time": 27.861
+                },
+                {
+                    "id": 25,
+                    "start_time": 28.237,
+                    "end_time": 28.279
+                }
+            ]
+        }
+    ],
+    "content_moderation": [
+        {
+            "id": 1,
+            "adultScore": 0.0024,
+            "racyScore": 0.9296,
+            "segment.start_time": 13.931,
+            "segment.end_time": 13.973
+        }
+    ]
+}
